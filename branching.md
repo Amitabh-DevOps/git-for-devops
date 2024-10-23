@@ -2,3 +2,6 @@
 
 Use [this](https://nvie.com/posts/a-successful-git-branching-model/) branching strategy
 
+
+use this to leant branching strategy
+
