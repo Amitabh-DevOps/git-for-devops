@@ -9,4 +9,5 @@ Includes:
 
 - Commands
 - Tutorial 
+- Videos
 
