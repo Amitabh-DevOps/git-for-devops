@@ -2,3 +2,4 @@
 
 Use [this](https://nvie.com/posts/a-successful-git-branching-model/) branching strategy
 
+Branching strategies used in organisation 
